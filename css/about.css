@@ -1,0 +1,21 @@
+.dashbord--table {
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+tr {
+  border: 1px solid #dfe0eb;
+}
+
+#button11 {
+  border-radius: 100%;
+  background-color: red;
+  padding: 10px 20px;
+  color: white;
+}
+#button12{
+    border-radius: 100%;
+  background-color: green;
+  padding: 10px 20px;
+  color: white;
+}
